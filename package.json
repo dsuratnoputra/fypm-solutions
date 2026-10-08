@@ -1,0 +1,11 @@
+{
+  "name": "fypm-solutions",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -p 8090 --fallback index.html"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
